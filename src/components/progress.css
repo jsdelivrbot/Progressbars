@@ -1,0 +1,22 @@
+.progressbars {
+    width: 500px;
+    margin: 100px auto 0 auto;
+}
+
+.bar {
+    margin-bottom: 20px;
+    height: 30px;
+    border: 1px solid #000;
+}
+
+.label {
+    padding-left: 10px;
+    color: #000;
+    width: 100%;
+    position: relative;
+    top: 25px;
+}
+
+.button {
+    margin: 0px 10px;
+}
