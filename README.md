@@ -30,9 +30,13 @@ Tech used.
  Next steps / features missing:
     - Styling of buttons and custom select box
     - Animation could use some easing.
-
-
+    - Tooltips, Aria attributes for accessibility
+    
 To run:
 
 1. 'yarn install'
 2.  yarn start'
+
+To test:
+
+1. 'yarn test' or 'jest'
