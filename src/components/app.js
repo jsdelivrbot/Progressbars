@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 // import progress bar component
-import Progress from 'react-progressbar';
+import Progress from './progress';
 
 // Import css modules.
 import './progress.css';

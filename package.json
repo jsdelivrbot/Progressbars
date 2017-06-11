@@ -57,7 +57,6 @@
     "npm": "^5.0.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-progressbar": "^1.4.6",
     "react-redux": "5.0.4",
     "react-router": "^4.1.1",
     "react-test-renderer": "^15.5.4",

@@ -10,8 +10,6 @@ import axios, {
 } from 'axios';
 import MockAdapter from 'axios-mock-adapter';
 import renderer from 'react-test-renderer';
-import Progress from 'react-progressbar';
-import sinon from 'sinon';
 
 // This sets the mock adapter on the default instance
 var mock = new MockAdapter(axios);
