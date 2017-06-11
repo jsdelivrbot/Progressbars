@@ -25,8 +25,13 @@ Tech used.
 - axios-mock-adapter
     - Required to mock ajac request and response in unit tests.
 
-- Avoided the use of redux as a store as the App is only one component. 
+- Avoided the use of redux as a store as the App is only one component.
 
  Next steps / features missing:
     - Styling of buttons and custom select box
     - Animation could use some easing.
+
+
+To run:
+
+run 'yarn install yarn start'
