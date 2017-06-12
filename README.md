@@ -24,6 +24,8 @@ Tech used.
     - Greate HTTP client for ajax calls features promises.
 - axios-mock-adapter
     - Required to mock ajac request and response in unit tests.
+- eslint-config-airbnb
+    - used for JS linting guide.
 
 - Avoided the use of redux as a store as the App is only one component.
 
@@ -31,7 +33,7 @@ Tech used.
     - Styling of buttons and custom select box
     - Animation could use some easing.
     - Tooltips, Aria attributes for accessibility
-    
+
 To run:
 
 1. 'yarn install'
